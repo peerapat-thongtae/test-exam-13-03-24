@@ -1,0 +1,432 @@
+[
+    {
+        "category": "film_and_tv",
+        "correctAnswer": "Naomi Watts",
+        "difficulty": "hard",
+        "id": "622a1c377cc59eab6f9506a1",
+        "incorrectAnswers": [
+            "Melissa Leo",
+            "Frances Conroy",
+            "Laura Linney"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "Which actress has featured in films including King Kong and Twin Peaks?"
+        },
+        "regions": [],
+        "tags": [
+            "film_and_tv"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "society_and_culture",
+        "correctAnswer": "Hercules",
+        "difficulty": "hard",
+        "id": "6470d79b423445f16131b4cb",
+        "incorrectAnswers": [
+            "Zeus",
+            "Apollo",
+            "Athena"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "Which Roman muscleman is identified with the Celtic God Ogmios and carried a bow and a club?"
+        },
+        "regions": [],
+        "tags": [
+            "mythology",
+            "romans",
+            "the_ancient_world",
+            "celtic",
+            "society_and_culture"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "geography",
+        "correctAnswer": "Ireland",
+        "difficulty": "medium",
+        "id": "622a1c387cc59eab6f950af4",
+        "incorrectAnswers": [
+            "Kingdom of the Netherlands",
+            "Belgium",
+            "France"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "Which of these countries borders United Kingdom?"
+        },
+        "regions": [],
+        "tags": [
+            "geography"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "geography",
+        "correctAnswer": "San Jose",
+        "difficulty": "hard",
+        "id": "62374015cb85f7ce9e949cda",
+        "incorrectAnswers": [
+            "Andorra la Vella",
+            "Port of Spain",
+            "Majuro"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "What is the capital city of Costa Rica?"
+        },
+        "regions": [],
+        "tags": [
+            "capital_cities",
+            "central_america",
+            "geography"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "geography",
+        "correctAnswer": "Italy",
+        "difficulty": "medium",
+        "id": "622a1c387cc59eab6f950afc",
+        "incorrectAnswers": [
+            "Liechtenstein",
+            "United Kingdom",
+            "San Marino"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "Which of these countries borders France?"
+        },
+        "regions": [],
+        "tags": [
+            "geography"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "science",
+        "correctAnswer": "weather",
+        "difficulty": "medium",
+        "id": "622a1c377cc59eab6f9504fc",
+        "incorrectAnswers": [
+            "animal diseases",
+            "hair and scalp",
+            "human beings killing other human beings"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "What is Meteorology the study of?"
+        },
+        "regions": [],
+        "tags": [
+            "science"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "science",
+        "correctAnswer": "vibrations and oscillations in the Sun",
+        "difficulty": "medium",
+        "id": "622a1c377cc59eab6f950524",
+        "incorrectAnswers": [
+            "origin of life",
+            "earthquakes",
+            "alternative method of massage, manipulative therapy|therapy or pressure on certain points of the sole of the feet as a means of relieving nervous tension"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "What is Helioseismology the study of?"
+        },
+        "regions": [],
+        "tags": [
+            "science"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "geography",
+        "correctAnswer": "Red",
+        "difficulty": "medium",
+        "id": "625e9ea0796f721e95543f62",
+        "incorrectAnswers": [
+            "Yellow",
+            "Green",
+            "Orange"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "Which of these colors would you find on the flag of Georgia?"
+        },
+        "regions": [],
+        "tags": [
+            "flags",
+            "geography"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "food_and_drink",
+        "correctAnswer": "Haricot ",
+        "difficulty": "medium",
+        "id": "622a1c367cc59eab6f950270",
+        "incorrectAnswers": [
+            "Berlotti",
+            "Canelini",
+            "Butter"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "Which bean is used to produce a tin of baked beans?"
+        },
+        "regions": [],
+        "tags": [
+            "food_and_drink"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "arts_and_literature",
+        "correctAnswer": "George Orwell",
+        "difficulty": "medium",
+        "id": "622a1c397cc59eab6f950e3e",
+        "incorrectAnswers": [
+            "Joseph Conrad",
+            "Virginia Woolf",
+            "Charles Dickens"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "Which author wrote 'Nineteen Eighty-Four'?"
+        },
+        "regions": [],
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "history",
+        "correctAnswer": "The Great Fire of London",
+        "difficulty": "hard",
+        "id": "645bc4634638d58091b1b9d1",
+        "incorrectAnswers": [
+            "The Black Death",
+            "The London Blitz",
+            "The Gunpowder Plot"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "What tragedy began on Pudding Lane, London on September 2, 1666?"
+        },
+        "regions": [],
+        "tags": [
+            "disasters",
+            "london",
+            "uk"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "film_and_tv",
+        "correctAnswer": "Ariel",
+        "difficulty": "easy",
+        "id": "63a03974c7d86251f9b65c5e",
+        "incorrectAnswers": [
+            "Belle",
+            "Jasmine",
+            "Elsa"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "What is the name of the mermaid in the Disney film The Little Mermaid?"
+        },
+        "regions": [],
+        "tags": [
+            "film_and_tv",
+            "disney",
+            "film",
+            "fictitious_characters"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "food_and_drink",
+        "correctAnswer": "Soup pasta",
+        "difficulty": "medium",
+        "id": "625006d90d86c8f685d80f01",
+        "incorrectAnswers": [
+            "Stuffed pasta",
+            "Tubular pasta",
+            "Shaped pasta"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "What type of pasta is orzo?"
+        },
+        "regions": [],
+        "tags": [
+            "food",
+            "italy",
+            "food_and_drink"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "food_and_drink",
+        "correctAnswer": "Strand pasta",
+        "difficulty": "medium",
+        "id": "625007210d86c8f685d80f16",
+        "incorrectAnswers": [
+            "Shaped pasta",
+            "Tubular pasta",
+            "Stuffed pasta"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "What type of pasta is vermicelli?"
+        },
+        "regions": [],
+        "tags": [
+            "food",
+            "italy",
+            "food_and_drink"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "arts_and_literature",
+        "correctAnswer": "Oscar Wilde",
+        "difficulty": "hard",
+        "id": "622a1c367cc59eab6f950145",
+        "incorrectAnswers": [
+            "Edgar Allen Poe",
+            "Victor Hugo",
+            "William Shakespeare"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "Whose works the \"Ballad Of Reading Gaol\" and \"De Profundis\" were written from his experiences in prison?"
+        },
+        "regions": [],
+        "tags": [
+            "literature",
+            "arts_and_literature"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "society_and_culture",
+        "correctAnswer": "Javanese",
+        "difficulty": "medium",
+        "id": "6357fd2468bd5000211e7181",
+        "incorrectAnswers": [
+            "Hausa",
+            "Mandarin",
+            "Quechua"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "Which of these languages would you find spoken in Indonesia?"
+        },
+        "regions": [],
+        "tags": [
+            "language",
+            "linguistics",
+            "society_and_culture"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "arts_and_literature",
+        "correctAnswer": "Edvard Munch",
+        "difficulty": "hard",
+        "id": "622a1c357cc59eab6f94fd42",
+        "incorrectAnswers": [
+            "Otto Dix",
+            "Anita Malfatti",
+            "Franz Marc"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "\"The Scream\" was painted by which artist?"
+        },
+        "regions": [],
+        "tags": [
+            "art",
+            "painting",
+            "people",
+            "arts_and_literature"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "society_and_culture",
+        "correctAnswer": "A fish",
+        "difficulty": "medium",
+        "id": "6471e4297206d7c314606f6f",
+        "incorrectAnswers": [
+            " A lion",
+            "A cow",
+            "An octopus"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "In the biblical story, what does Jonah get swallowed by?"
+        },
+        "regions": [],
+        "tags": [
+            "bible",
+            "society_and_culture",
+            "christianity"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "film_and_tv",
+        "correctAnswer": "Peter Dinklage",
+        "difficulty": "hard",
+        "id": "625699189da29df7b05f72b1",
+        "incorrectAnswers": [
+            "J.K. Simmons",
+            "Paul Rudd",
+            "Tom Hiddleston"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "The role of Eitri in the Marvel Cinematic Universe is played by which actor?"
+        },
+        "regions": [],
+        "tags": [
+            "mcu",
+            "film",
+            "acting",
+            "marvel",
+            "comics",
+            "film_and_tv"
+        ],
+        "type": "text_choice"
+    },
+    {
+        "category": "society_and_culture",
+        "correctAnswer": "Niger–Congo",
+        "difficulty": "medium",
+        "id": "622a1c357cc59eab6f94fcb0",
+        "incorrectAnswers": [
+            "Afroasiatic",
+            "Kra–Dai",
+            "Austroasiatic"
+        ],
+        "isNiche": false,
+        "question": {
+            "text": "The language 'Nigerian Fulfulde' belongs to which language family?"
+        },
+        "regions": [],
+        "tags": [
+            "language",
+            "society_and_culture"
+        ],
+        "type": "text_choice"
+    }
+]
